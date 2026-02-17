@@ -8,7 +8,7 @@ Designed and implemented a Security Operations Center (SOC) monitoring lab using
 ## Objectives
 - Monitor network traffic and system logs
 - Detect malware infections and brute-force attacks
-- Identify suspicious user activity
+- Identify suspicious user activity 
 - Configure alerting mechanisms
 
 ## Tools & Technologies
