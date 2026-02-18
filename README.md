@@ -34,6 +34,7 @@ Designed and implemented a Security Operations Center (SOC) monitoring lab using
 ## Skills Gained
 - SIEM monitoring
 - Log analysis
+- threat monitoring 
 - Threat detection
 - Incident response handling
 
