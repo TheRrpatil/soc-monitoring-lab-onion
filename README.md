@@ -38,3 +38,18 @@ Designed and implemented a Security Operations Center (SOC) monitoring lab using
 - Threat detection
 - Incident response handling
 
+Incident Response Workflow
+1. Detection
+2. Analysis
+3. Containment
+4. Eradication
+5. Recovery
+6. Lessons Learned
+
+## Skills Gained
+- SIEM monitoring
+- Log analysis
+- threat monitoring 
+- Threat detection
+- Incident response handling
+
