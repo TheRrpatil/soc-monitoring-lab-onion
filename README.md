@@ -46,10 +46,4 @@ Incident Response Workflow
 5. Recovery
 6. Lessons Learned
 
-## Skills Gained
-- SIEM monitoring
-- Log analysis
-- threat monitoring 
-- Threat detection
-- Incident response handling
 
